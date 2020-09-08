@@ -1,0 +1,150 @@
+{
+  "projectName": "colyseus",
+  "projectOwner": "gamestdio",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "endel",
+      "name": "Endel Dreyer",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/130494?v=4",
+      "profile": "https://twitter.com/endel",
+      "contributions": [
+        "code",
+        "doc",
+        "example"
+      ]
+    },
+    {
+      "login": "seiyria",
+      "name": "Kyle J. Kemp",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/763609?v=4",
+      "profile": "http://seiyria.com",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "financial",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Wenish",
+      "name": "Jonas Voland",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/18367963?v=4",
+      "profile": "http://wenish.github.io/portfolio/",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "financial",
+        "ideas"
+      ]
+    },
+    {
+      "login": "doorbash",
+      "name": "Milad Doorbash",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5982526?v=4",
+      "profile": "https://github.com/doorbash",
+      "contributions": [
+        "bug",
+        "code"
+      ]
+    },
+    {
+      "login": "oyed",
+      "name": "Tom",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/853683?v=4",
+      "profile": "https://oyed.io",
+      "contributions": [
+        "question",
+        "bug",
+        "ideas"
+      ]
+    },
+    {
+      "login": "mobyjames",
+      "name": "James Jacoby",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1327007?v=4",
+      "profile": "https://github.com/mobyjames/",
+      "contributions": [
+        "example",
+        "financial",
+        "content"
+      ]
+    },
+    {
+      "login": "TinyDobbins",
+      "name": "Nikita Borisov",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/20824844?v=4",
+      "profile": "https://github.com/TinyDobbins",
+      "contributions": [
+        "bug",
+        "code",
+        "financial",
+        "ideas"
+      ]
+    },
+    {
+      "login": "filharvey",
+      "name": "Phil Harvey",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/232101?v=4",
+      "profile": "https://acemobe.com/",
+      "contributions": [
+        "financial",
+        "doc"
+      ]
+    },
+    {
+      "login": "brian-hay",
+      "name": "Brian Hay",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1428000?v=4",
+      "profile": "https://github.com/brian-hay",
+      "contributions": [
+        "financial"
+      ]
+    },
+    {
+      "login": "enriqueto",
+      "name": "Enriqueto",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5557196?v=4",
+      "profile": "https://github.com/enriqueto",
+      "contributions": [
+        "financial"
+      ]
+    },
+    {
+      "login": "digimbyte",
+      "name": "digimbyte",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/6645396?v=4",
+      "profile": "https://github.com/digimbyte",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Federkun",
+      "name": "Federico",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/21344385?v=4",
+      "profile": "https://twitter.com/Federkun",
+      "contributions": [
+        "bug",
+        "code"
+      ]
+    },
+    {
+      "login": "derwish-pro",
+      "name": "Derwish",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/13785893?v=4",
+      "profile": "https://github.com/derwish-pro",
+      "contributions": [
+        "bug",
+        "tool"
+      ]
+    }
+  ],
+  "repoType": "github"
+}

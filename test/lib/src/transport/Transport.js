@@ -1,0 +1,13 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.ClientState = exports.Transport = void 0;
+class Transport {
+    address() { return this.server.address(); }
+}
+exports.Transport = Transport;
+var ClientState;
+(function (ClientState) {
+    ClientState[ClientState["JOINING"] = 0] = "JOINING";
+    ClientState[ClientState["JOINED"] = 1] = "JOINED";
+    ClientState[ClientState["RECONNECTED"] = 2] = "RECONNECTED";
+})(ClientState = exports.ClientState || (exports.ClientState = {}));
